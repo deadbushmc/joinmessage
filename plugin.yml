@@ -1,0 +1,6 @@
+name: CustomJoin
+main: DeadBush\CustomJoin\Main
+api: [3.0.0, 4.0.0]
+author: DeadBush
+version: 1.0
+description: A CustomJoin Plugin for PocketMine-MP
